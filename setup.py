@@ -27,8 +27,9 @@ setup(
     keywords='fortnox rest api',
 
     classifiers=[
-        'Development Status :: 1 - Planning',
+        'Development Status :: 2 - Pre-Alpha',
         'Environment :: Other Environment',
+        'License :: OSI Approved :: MIT License',
         'Intended Audience :: Developers',
         'Topic :: Internet :: WWW/HTTP',
         'Topic :: Software Development :: Libraries :: Python Modules'
